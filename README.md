@@ -126,5 +126,4 @@ Feel free to fork this repository, add your own spells, creatures, animations, c
 Every contribution that expands the Wizarding World is welcome.
 
 ---
----
 
