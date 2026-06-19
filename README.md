@@ -14,12 +14,6 @@
 
 ---
 
-## 📂 Repository
-
-🔗 **https://github.com/mishthhiiii/Wizard-verse**
-
----
-
 ## 📖 About WizardVerse
 
 WizardVerse is a Harry Potter-inspired web encyclopedia built using **HTML5** and **CSS3**. The project brings together various aspects of the Wizarding World into a single platform where fans can explore characters, houses, creatures, spells, and historical events from the magical universe.
