@@ -2,7 +2,7 @@
 
 ## Harry Potter Encyclopedia
 
-![WizardVerse Homepage](homepage/Screenshot%202026-06-19%20185446.png)
+![WizardVerse Homepage](homepage/homepage.png)
 
 > A magical encyclopedia inspired by the Harry Potter universe, featuring legendary characters, Hogwarts houses, powerful spells, magical creatures, and iconic moments from the Wizarding World.
 
